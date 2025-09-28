@@ -1,6 +1,7 @@
 # Consumer Complaint Classification
 ## Overview
 This project builds a text classification model to automatically categorize consumer complaints into one of the following categories:
+
 o Credit Reporting
 o	Debt Collection
 o	Consumer Loan
