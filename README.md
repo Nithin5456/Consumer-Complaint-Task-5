@@ -15,18 +15,24 @@ It uses TF-IDF features from complaint narratives and applies machine learning m
 ## Features
 ### •	Text preprocessing:
 o	Lowercasing
+
 o	Removing punctuation and non-alphabetic characters
+
 o	Stopword removal
+
 o	Lemmatization
 ### •	Feature engineering:
 o	TF-IDF vectorization
 ### •	Handling imbalanced classes:
 o	Oversampling using RandomOverSampler
 ### •	Models used:
-o	Logistic Regression 
+o	Logistic Regression
+
 o	Multinomial Naive Bayes
 ### •	Evaluation metrics:
 o	Accuracy
+
 o	Macro F1-score
+
 o	Classification report (precision, recall, F1)
 
