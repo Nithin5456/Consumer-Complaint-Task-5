@@ -32,7 +32,5 @@ o	Multinomial Naive Bayes
 ### •	Evaluation metrics:
 o	Accuracy
 
-o	Macro F1-score
-
 o	Classification report (precision, recall, F1)
 
